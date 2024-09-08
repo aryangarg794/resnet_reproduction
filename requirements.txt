@@ -4,4 +4,8 @@ ipykernel
 pandas
 matplotlib
 torchvision
+torchsummary 
 pyyaml
+tqdm
+ipgrogress
+ipywidgets

@@ -1,5 +1,5 @@
-batch_size: 32
-epochs: 1000
-starting_lr: 0.001
+batch_size: 128
+epochs: 75
+starting_lr: 0.005
 num_classes: 10
 input_size: (32, 32)
